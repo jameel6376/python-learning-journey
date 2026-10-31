@@ -1,4 +1,3 @@
-base_price = 0
 
 def calculate_item_price(item_type, quantity):
     if item_type == 'coffee':
