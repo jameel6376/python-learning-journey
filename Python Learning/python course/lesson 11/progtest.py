@@ -1,3 +1,4 @@
+#RPG character
 character_profile = {
     'name': 'jameel',
     'class': 'Warrior',
